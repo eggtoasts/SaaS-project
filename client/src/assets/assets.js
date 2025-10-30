@@ -1,10 +1,11 @@
-import logo from "./logo.png";
-import gradientBackground from "./gradientBackground.png";
-import user_group from "./dmc5_group.png";
+import logo from "./Aigis.ai.png";
+import gradientBackground from "./background.png";
+import user_group from "./sees_group.png";
 import star_icon from "./star_icon.svg";
 import star_dull_icon from "./star_dull_icon.svg";
 import profile_img_1 from "./profile_img_1.png";
 import arrow_icon from "./arrow_icon.svg";
+import vid from "./reload.bg.mp4";
 import {
   SquarePen,
   Hash,
@@ -25,6 +26,7 @@ export const assets = {
   star_dull_icon,
   profile_img_1,
   arrow_icon,
+  vid,
 };
 
 export const AiToolsData = [
